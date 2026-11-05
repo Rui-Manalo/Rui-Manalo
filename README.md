@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=210&section=header&text=Rui%20Manalo&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Junior%20Data%20Analyst%20%7C%20Data%20Engineering%20Enthusiast&descSize=18&descAlignY=60" width="100%" alt="Rui Manalo header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=210&section=header&text=Rui%20Manalo&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=%20Data%20Analyst%20%7C%20Data%20Engineering%20Enthusiast&descSize=18&descAlignY=60" width="100%" alt="Rui Manalo header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel;ETL+Pipelines+%26+Dimensional+Modeling;Turning+raw+data+into+insight" alt="Typing SVG" />
